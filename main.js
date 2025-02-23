@@ -18,6 +18,7 @@ console.log(asciiValues);
 // Digit : 48 - 57 (0-9)
 // Uppercase : 65-90 (A-Z)
 // Lowercase : 97-122 (a-z)
+// space : 32
 
 
 
