@@ -7,7 +7,7 @@ function textToAscii(text) {
 }
 
 // Example : 
-let inputText = "xProbe";
+let inputText = "xProbe"; // <- Change your input text here 
 let asciiValues = textToAscii(inputText);
 console.log(asciiValues);
 
